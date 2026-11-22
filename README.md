@@ -13,7 +13,7 @@
 
 **AI & ML enthusiast · Full-Stack Developer · Embedded Systems tinkerer**
 
-*10th-grade Computer Networks student @ TUES, Sofia 🇧🇬*
+*11th-grade Computer Networks student @ TUES, Sofia 🇧🇬*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stefan-stefanov-bb0087373)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/StefiDev)
